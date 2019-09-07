@@ -1,0 +1,205 @@
+{
+	"current": ["MSFT", "AAPL", "AMZN", "FB", "GOOG", "GOOGL", "INTC", "CMCSA", "CSCO", "PEP", "ADBE", "COST", "NFLX", "PYPL", "AMGN", "SBUX", "TXN", "AVGO", "NVDA", "QCOM", "CHTR", "BKNG", "GILD", "MDLZ", "INTU", "ADP", "FISV", "CELG", "TMUS", "ISRG", "CSX", "MU", "WBA", "VRTX", "AMAT", "BIIB", "MAR", "ILMN", "ADI", "TSLA", "ROST", "ATVI", "EBAY", "CTSH", "AMD", "NXPI", "XEL", "MNST", "LRCX", "ADSK", "REGN", "KHC", "ORLY", "PAYX", "MELI", "BIDU", "WDAY", "SIRI", "JD", "EA", "CTAS", "VRSK", "XLNX", "WLTW", "IDXX", "VRSN", "DLTR", "KLAC", "PCAR", "LULU", "ALXN", "CERN", "UAL", "SNPS", "MCHP", "CDNS", "NTES", "EXPE", "FAST", "INCY", "WDC", "CHKP", "ASML", "CTRP", "MXIM", "TTWO", "ALGN", "SYMC", "HAS", "ULTA", "LBTYK", "BMRN", "SWKS", "CTXS", "WYNN", "NTAP", "JBHT", "AAL", "FOXA", "MYL", "HSIC", "FOX", "LBTYA"],
+	"changes": {
+		"2011-04-04": {
+			"old": ["GENZ"],
+			"new": ["ALXN"]
+		},
+		"2011-05-27": {
+			"old": ["MICC"],
+			"new": ["KDP"]
+		},
+		"2011-07-15": {
+			"old": ["CEPH"],
+			"new": ["SIRI"]
+		},
+		"2011-12-06": {
+			"old": ["JOY"],
+			"new": ["PRGO"]
+		},
+		"2011-12-19": {
+			"old": ["FLIR", "ILMN", "NIHD", "QGEN", "URBN"],
+			"new": ["AVGO", "FOSL", "MNST", "NUAN", "GOLD"]
+		},
+		"2012-04-23": {
+			"old": ["FSLR"],
+			"new": ["TXN"]
+		},
+		"2012-05-30": {
+			"old": ["TEVA"],
+			"new": ["VIA", "VIAB"]
+		},
+		"2012-07-23": {
+			"old": ["CTRP"],
+			"new": ["MDLZ"]
+		},
+		"2012-12-12": {
+			"old": ["INFY"],
+			"new": ["FB"]
+		},
+		"2012-12-24": {
+			"old": ["UOPX", "EA", "FLEX", "KDP", "LRCX", "MRVL", "NFLX", "BB", "VRSN", "ACT"],
+			"new": ["ADI", "CTRX", "DISCA", "DISCK", "EQIX", "LBTYA", "LBTYK", "LILA", "LILAC", "REGN", "SBAC", "VRSK", "WDC"]
+		},
+		"2013-01-15": {
+			"old": ["LILA", "LILAC"],
+			"new": ["STRZA"]
+		},
+		"2013-03-18": {
+			"old": ["STRZA"],
+			"new": ["KHC"]
+		},
+		"2013-06-05": {
+			"old": ["TLWT"],
+			"new": ["LILA", "LILAC"]
+		},
+		"2013-06-06": {
+			"old": ["PRGO"],
+			"new": ["NFLX"]
+		},
+		"2013-07-15": {
+			"old": ["ORCL"],
+			"new": ["TSLA"]
+		},
+		"2013-07-25": {
+			"old": ["BMC"],
+			"new": ["CHTR"]
+		},
+		"2013-08-22": {
+			"old": ["IVGN"],
+			"new": ["KDP"]
+		},
+		"2013-10-29": {
+			"old": ["DELL"],
+			"new": ["VEON"]
+		},
+		"2013-11-18": {
+			"old": ["GOLD"],
+			"new": ["MAR"]
+		},
+		"2013-12-23": {
+			"old": ["FOSL", "MCHP", "NUAN", "SHLDQ", "XRAY"],
+			"new": ["DISH", "ILMN", "NXPI", "TSCO", "TRIP"]
+		},
+		"2014-04-03": {
+			"old": [],
+			"new": ["GOOG"]
+		},
+		"2014-12-12": {
+			"old": ["EXPE", "FFIV", "MXIM"],
+			"new": ["AAL", "EA", "LRCX"]
+		},
+		"2015-03-23": {
+			"old": ["EQIX"],
+			"new": ["WBA"]
+		},
+		"2015-07-01": {
+			"old": [],
+			"new": ["QRTEA", "QRTEB"]
+		},
+		"2015-07-23": {
+			"old": ["CTRX"],
+			"new": []
+		},
+		"2015-07-24": {
+			"old": ["DTV"],
+			"new": []
+		},
+		"2015-07-27": {
+			"old": [],
+			"new": ["BMRN"]
+		},
+		"2015-07-29": {
+			"old": [],
+			"new": ["JD"]
+		},
+		"2015-07-31": {
+			"old": ["SIAL"],
+			"new": []
+		},
+		"2015-08-03": {
+			"old": [],
+			"new": ["SWKS"]
+		},
+		"2015-10-07": {
+			"old": ["ALTR"],
+			"new": ["INCY"]
+		},
+		"2015-11-11": {
+			"old": ["BRCM"],
+			"new": ["PYPL"]
+		},
+		"2015-12-15": {
+			"old": ["CMCSK"],
+			"new": ["CMCSA"]
+		},
+		"2015-12-21": {
+			"old": ["LILA", "LILAC", "CHRW", "EXPD", "GRMN", "KDP", "SPLS", "VEON", "WYNN"],
+			"new": ["CTRP", "ENDP", "EXPE", "MXIM", "NCLH", "TMUS", "ULTA"]
+		},
+		"2016-02-22": {
+			"old": ["KLAC"],
+			"new": ["CSX"]
+		},
+		"2016-03-16": {
+			"old": ["SNDK"],
+			"new": ["NTES"]
+		},
+		"2016-06-20": {
+			"old": ["LMCA", "LMCK", "BATRA", "BATRK"],
+			"new": ["XRAY"]
+		},
+		"2016-07-18": {
+			"old": ["ENDP"],
+			"new": ["MCHP"]
+		},
+		"2016-10-19": {
+			"old": ["LLTC"],
+			"new": ["SHPG"]
+		},
+		"2016-12-09": {
+			"old": ["BBBY", "NTAP", "SRCL", "WFM"],
+			"new": ["CTAS", "HAS", "HOLX", "KLAC"]
+		},
+		"2017-02-07": {
+			"old": ["NXPI"],
+			"new": ["JBHT"]
+		},
+		"2017-03-20": {
+			"old": ["SBAC"],
+			"new": ["IDXX"]
+		},
+		"2017-04-24": {
+			"old": ["TRIP"],
+			"new": ["WYNN"]
+		},
+		"2017-06-19": {
+			"old": ["YHOO"],
+			"new": ["MELI"]
+		},
+		"2017-10-23": {
+			"old": ["MAT"],
+			"new": ["ALGN"]
+		},
+		"2017-12-18": {
+			"old": ["AKAM", "DISCA", "DISCK", "NCLH", "TSCO", "VIA", "VIAB"],
+			"new": ["ASML", "CDNS", "SNPS", "TTWO", "WDAY"]
+		},
+		"2018-07-23": {
+			"old": ["DISH"],
+			"new": ["PEP"]
+		},
+		"2018-11-05": {
+			"old": ["CA"],
+			"new": ["NXPI"]
+		},
+		"2018-11-19": {
+			"old": ["XRAY"],
+			"new": ["XEL"]
+		},
+		"2018-12-14": {
+			"old": ["ESRX", "HOLX", "QRTEA", "QRTEB", "STX", "SHPG", "VOD"],
+			"new": ["AMD", "LULU", "NTAP", "UAL", "VRSN", "WLTW"]
+		}
+	}	
+}

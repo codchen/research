@@ -1,0 +1,34 @@
+{
+	"stock": [
+		"AAPL",
+		"QQQ",
+		"SPY",
+		"DIA",
+		"GOOG",
+		"AMD",
+		"NVDA",
+		"FB",
+		"MSFT",
+		"AMZN",
+		"XOM",
+		"JNJ",
+		"JPM",
+		"BAC",
+		"V",
+		"MMM",
+		"BA",
+		"UNH",
+		"AMGN",
+		"SLB",
+		"GLD"
+	],
+	"crypto": [
+		"BTC",
+		"ETH",
+		"LTC",
+		"EOS",
+		"BCH",
+		"NEO",
+		"BSV"
+	]
+}
